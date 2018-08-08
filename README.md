@@ -1180,6 +1180,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) for a comprehensive lis
     * [ginkgo](http://onsi.github.io/ginkgo/) - BDD Testing Framework for Go.
     * [go-carpet](https://github.com/msoap/go-carpet) - Tool for viewing test coverage in terminal.
     * [go-cmp](https://github.com/google/go-cmp) - Package for comparing Go values in tests
+    * [gojet](https://github.com/asaf/gojet) - Automate HTTP APIs testing with simple yet powerful YAML-based playbook.
     * [go-mutesting](https://github.com/zimmski/go-mutesting) - Mutation testing for Go source code.
     * [go-testdeep](https://github.com/maxatome/go-testdeep) - Extremely flexible golang deep comparison, extends the go testing package.
     * [go-vcr](https://github.com/dnaeon/go-vcr) - Record and replay your HTTP interactions for fast, deterministic and accurate tests.
@@ -1378,7 +1379,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) for a comprehensive lis
 * [fzf](https://github.com/junegunn/fzf) - Command-line fuzzy finder written in Go.
 * [gaper](https://github.com/maxcnunes/gaper) - Builds and restarts a Go project when it crashes or some watched file changes.
 * [generate](https://github.com/go-playground/generate) - runs go generate recursively on a specified path or environment variable and can filter by regex.
-* [gentleman](https://github.com/h2non/gentleman) - Full-featured plugin-driven HTTP client library.
+* [tgentleman](https://github.com/h2non/gentleman) - Full-featured plugin-driven HTTP client library.
 * [git-time-metric](https://github.com/git-time-metric/gtm) - Simple, seamless, lightweight time tracking for Git.
 * [GJSON](https://github.com/tidwall/gjson) - Get a JSON value with one line of code.
 * [go-astitodo](https://github.com/asticode/go-astitodo) - Parse TODOs in your GO code.
